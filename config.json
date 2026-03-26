@@ -9,8 +9,7 @@
         },
         "cs": {
           "AC-View-ID": "6e4d51ea-3b21-4667-b375-6e8356b27737",
-          "AC-Source-Locale": "default",
-          "AC-Price-Book-ID": "west_coast_inc"
+          "AC-Source-Locale": "default"
         }
       },
       "commerce-b2b-enabled": true,
