@@ -9,7 +9,11 @@
         },
         "cs": {
           "AC-View-ID": "6e4d51ea-3b21-4667-b375-6e8356b27737",
-          "AC-Source-Locale": "en-US"
+          "AC-Source-Locale": "en-US",
+          "AC-Price-Book-ID": "west_coast_inc",
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base"
         }
       },
       "commerce-b2b-enabled": true,
