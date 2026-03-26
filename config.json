@@ -3,6 +3,7 @@
     "default": {
       "commerce-core-endpoint": "https://aco-b2b-6sj7kny-vw475wvwakwl6.eu-4.magentosite.cloud/graphql",
       "commerce-endpoint": "https://na1.api.commerce.adobe.com/7Xuwon6u1HcDF4KHGutPeH/graphql",
+      "adobe-commerce-optimizer": true,
       "headers": {
         "all": {
           "Store": "default"
