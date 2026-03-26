@@ -1,0 +1,44 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "http://aco-b2b-6sj7kny-vw475wvwakwl6.eu-4.magentosite.cloud/graphql",
+      "commerce-endpoint": "https://na1.api.commerce.adobe.com/7Xuwon6u1HcDF4KHGutPeH/graphql",
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "AC-View-ID": "54bd9af6-467f-4cd5-a47b-2220fba6eeaf",
+          "AC-Source-Locale": "en-US",
+          "AC-Price-Book-ID": "west_coast_inc",
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base"
+        }
+      },
+      "commerce-b2b-enabled": true,
+      "commerce-companies-enabled": true,
+      "commerce-assets-enabled": false,
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Production",
+        "environment-id": "7Xuwon6u1HcDF4KHGutPeH",
+        "store-code": "main_website_store",
+        "store-id": "main_website_store",
+        "store-name": "Default Store View",
+        "store-url": "http://aco-b2b-6sj7kny-vw475wvwakwl6.eu-4.magentosite.cloud/",
+        "store-view-code": "default",
+        "store-view-id": "default",
+        "store-view-name": "Default Store View",
+        "website-code": "base",
+        "website-id": "base",
+        "website-name": "Main Website"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "2"
+        }
+      }
+    }
+  }
+}
