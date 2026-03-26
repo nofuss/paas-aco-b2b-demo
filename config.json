@@ -1,7 +1,7 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "http://aco-b2b-6sj7kny-vw475wvwakwl6.eu-4.magentosite.cloud/graphql",
+      "commerce-core-endpoint": "https://aco-b2b-6sj7kny-vw475wvwakwl6.eu-4.magentosite.cloud/graphql",
       "commerce-endpoint": "https://na1.api.commerce.adobe.com/7Xuwon6u1HcDF4KHGutPeH/graphql",
       "headers": {
         "all": {
@@ -26,7 +26,7 @@
         "store-code": "main_website_store",
         "store-id": "main_website_store",
         "store-name": "Default Store View",
-        "store-url": "http://aco-b2b-6sj7kny-vw475wvwakwl6.eu-4.magentosite.cloud/",
+        "store-url": "https://aco-b2b-6sj7kny-vw475wvwakwl6.eu-4.magentosite.cloud/",
         "store-view-code": "default",
         "store-view-id": "default",
         "store-view-name": "Default Store View",
